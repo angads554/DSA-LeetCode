@@ -13,8 +13,8 @@ class Solution {
         System.out.println(ar);
         int j=0;
         for(int i=ar.size()-1;i>=0;i--){
-            arr[j]=ar.get(i);
-            j++;
+            arr[j++]=ar.get(i);
+            //j++;
         }
 
 
