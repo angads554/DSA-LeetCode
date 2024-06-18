@@ -3,14 +3,11 @@ class Solution {
         int[] arr = new int[n+1];
         
         for(int i=0;i<=n;i++){
-            int count =0;
-            int a =i;
-            while(a!=0){ 
-                count+=a%2;
-                a/=2;
+            if(i%2==0){
+                arr[i]=arr[i/2];
             }
-            arr[i]= count;
-           
+            else
+            arr[i]=arr[i/2]+1;
         }
         return arr;
     }
