@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/angads554/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [0169-majority-element](https://github.com/angads554/DSA-LeetCode/tree/master/0169-majority-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/angads554/DSA-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/angads554/DSA-LeetCode/tree/master/0031-next-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/angads554/DSA-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
