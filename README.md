@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/angads554/DSA-LeetCode/tree/master/0031-next-permutation) |
+| [0128-longest-consecutive-sequence](https://github.com/angads554/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/angads554/DSA-LeetCode/tree/master/0169-majority-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/angads554/DSA-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/angads554/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/angads554/DSA-LeetCode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -32,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/angads554/DSA-LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/angads554/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
