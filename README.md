@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/angads554/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/angads554/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/angads554/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/angads554/DSA-LeetCode/tree/master/1078-remove-outermost-parentheses) |
 ## Stack
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/angads554/DSA-LeetCode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/angads554/DSA-LeetCode/tree/master/0050-powx-n) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/angads554/DSA-LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
