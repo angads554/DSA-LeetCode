@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/angads554/DSA-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/angads554/DSA-LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/angads554/DSA-LeetCode/tree/master/0169-majority-element) |
+| [0216-combination-sum-iii](https://github.com/angads554/DSA-LeetCode/tree/master/0216-combination-sum-iii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/angads554/DSA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/angads554/DSA-LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/angads554/DSA-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/angads554/DSA-LeetCode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/angads554/DSA-LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/angads554/DSA-LeetCode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/angads554/DSA-LeetCode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
