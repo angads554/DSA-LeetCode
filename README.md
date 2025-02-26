@@ -201,4 +201,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/angads554/DSA-LeetCode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/angads554/DSA-LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2057-count-salary-categories](https://github.com/angads554/DSA-LeetCode/tree/master/2057-count-salary-categories) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/angads554/DSA-LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
