@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1317-monthly-transactions-i](https://github.com/angads554/DSA-LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/angads554/DSA-LeetCode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1390-average-selling-price](https://github.com/angads554/DSA-LeetCode/tree/master/1390-average-selling-price) |
+| [1452-restaurant-growth](https://github.com/angads554/DSA-LeetCode/tree/master/1452-restaurant-growth) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/angads554/DSA-LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/angads554/DSA-LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/angads554/DSA-LeetCode/tree/master/1773-percentage-of-users-attended-a-contest) |
