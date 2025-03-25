@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1153-product-sales-analysis-i](https://github.com/angads554/DSA-LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/angads554/DSA-LeetCode/tree/master/1155-product-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/angads554/DSA-LeetCode/tree/master/1179-game-play-analysis-i) |
+| [1182-game-play-analysis-iv](https://github.com/angads554/DSA-LeetCode/tree/master/1182-game-play-analysis-iv) |
 | [1258-article-views-i](https://github.com/angads554/DSA-LeetCode/tree/master/1258-article-views-i) |
 | [1278-product-price-at-a-given-date](https://github.com/angads554/DSA-LeetCode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/angads554/DSA-LeetCode/tree/master/1292-immediate-food-delivery-ii) |
